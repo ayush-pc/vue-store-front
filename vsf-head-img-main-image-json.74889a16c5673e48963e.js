@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[39],{687:function(e){e.exports=JSON.parse('{"image":{"title":"Get 50% 0ff on all medicines","subtitle":"Use Code : PRISTYN50","image":"/assets/header-image.png","link":"/women.html"}}')}}]);
+//# sourceMappingURL=vsf-head-img-main-image-json.74889a16c5673e48963e.js.map

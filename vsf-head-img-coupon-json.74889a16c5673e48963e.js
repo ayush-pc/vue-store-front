@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[38],{678:function(o){o.exports=JSON.parse('[{"code":"PC 500","description":"You will get 500 rs on buying products more than worth 2,500 rs."},{"code":"PC 500","description":"You will get 500 rs on buying products more than worth 2,500 rs."}]')}}]);
+//# sourceMappingURL=vsf-head-img-coupon-json.74889a16c5673e48963e.js.map

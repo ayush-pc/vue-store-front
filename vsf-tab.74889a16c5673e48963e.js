@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[88],{1420:function(t,e,i){"use strict";i.r(e);var s={props:{title:{type:String,default:"Tab"}},data:function(){return{isActive:!0}}},a=i(170),n=Object(a.a)(s,(function(){var t=this.$createElement;return(this._self._c||t)("div",{directives:[{name:"show",rawName:"v-show",value:this.isActive,expression:"isActive"}],staticClass:"tab"},[this._t("default")],2)}),[],!1,null,null,null);e.default=n.exports}}]);
+//# sourceMappingURL=vsf-tab.74889a16c5673e48963e.js.map
